@@ -1,6 +1,6 @@
 let nomeHeroi = "Pedro"
 
-let quantidadeXp = 10001
+let quantidadeXp = 10200
 
 if (quantidadeXp < 1000) {
 
